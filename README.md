@@ -39,7 +39,7 @@ This project is developed using **C# .NET** and **SQL Server**, with a dedicated
 - **User & People Management** 👤  
   - Add, edit, and delete users/people.  
   - Secure and structured access.
-  - 
+    
 - **Detained Licenses Management** 🚓  
   - Detain a license.  
   - Release a detained license.  
