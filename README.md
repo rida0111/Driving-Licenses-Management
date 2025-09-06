@@ -5,7 +5,7 @@ This project is developed using **C# .NET** and **SQL Server**, with a dedicated
 
 ## 🔹 Project Architecture
 1. **DVLD Presentation & Access Layer**
-   - Provides forms and controls for managing users and people.
+   - Provides forms and controls for managing users and people and Licenses and applications.
    - Handles CRUD operations (Add, Edit, Delete) for users/people.
    - Manages all interactions between the user and the system.
 
