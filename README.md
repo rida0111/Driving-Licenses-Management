@@ -38,8 +38,13 @@ This project is developed using **C# .NET** and **SQL Server**, with a dedicated
 
 - **User & People Management** 👤  
   - Add, edit, and delete users/people.  
-  - Secure and structured access.  
-
+  - Secure and structured access.
+  - 
+- **Detained Licenses Management** 🚓  
+  - Detain a license.  
+  - Release a detained license.  
+  - Track detained licenses.
+    
 ## 🔹 Forms Included
 - **User/People Forms** → Manage users and personal information.  
 - **License Forms** → Issue, renew, replace, and view license history.  
