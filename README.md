@@ -50,7 +50,3 @@ This project is developed using **C# .NET** and **SQL Server**, with a dedicated
 - **License Forms** → Issue, renew, replace, and view license history.  
 - **Application Type Form** → Manage types of applications.  
 - **Application Test Form** → Manage test-related operations.  
-
-## 🔹 Database 🗄️
-- The project includes a **Database folder** containing SQL Server scripts.  
-- These scripts can be used to create and set up the required database structure and seed initial data.  
